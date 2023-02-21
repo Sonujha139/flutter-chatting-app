@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470237294780",
+    "project_id": "zircon-chat-d8fc7",
+    "storage_bucket": "zircon-chat-d8fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470237294780:android:3a37919b652d770d51a0b9",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470237294780-qgu1a9c6ljl65rjq40iu35omupd4l98n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtsS5Wu-uQR4pmcYsHTDU3rUsOh_r0iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470237294780-qgu1a9c6ljl65rjq40iu35omupd4l98n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
